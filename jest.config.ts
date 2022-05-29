@@ -1,4 +1,5 @@
-module.exports = {
+/* eslint-disable */
+export default {
   displayName: 'citations-crossref-to-csl',
   preset: '../../../jest.preset.js',
   globals: {
