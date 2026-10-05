@@ -2,50 +2,94 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [0.3.0](https://github.com/TrialAndErrorOrg/parsers/compare/crossref-to-csl-0.2.0...crossref-to-csl-0.3.0) (2023-09-29)
+
+### Dependency Updates
+
+* `crossref-json` updated to version `0.2.2`
+
+### Features
+
+* update all package.json ([d4070e5](https://github.com/TrialAndErrorOrg/parsers/commit/d4070e53ab3389db11fed978f3f74bcfe6808f5e))
+
+## [0.2.0](https://github.com/TrialAndErrorOrg/parsers/compare/crossref-to-csl-0.1.4...crossref-to-csl-0.2.0) (2023-09-22)
+
+### Dependency Updates
+
+* `crossref-json` updated to version `0.2.1`
+
+### Features
+
+* giant prettier + eslint run ([6becd94](https://github.com/TrialAndErrorOrg/parsers/commit/6becd9492006b9a7f7f91b60db440bb31d9140c8))
+
+## [0.1.4](https://github.com/TrialAndErrorOrg/parsers/compare/crossref-to-csl-0.1.3...crossref-to-csl-0.1.4) (2023-09-21)
+
+### Dependency Updates
+
+- `crossref-json` updated to version `0.1.4`
+
+### Bug Fixes
+
+- don't use shady custom builder, just run a script that fixes the package.json ([def3c18](https://github.com/TrialAndErrorOrg/parsers/commit/def3c1844ae0a0d547de2b0a01689a302b58ab61))
+
+## [0.1.3](https://github.com/TrialAndErrorOrg/parsers/compare/crossref-to-csl-0.1.2...crossref-to-csl-0.1.3) (2023-03-14)
+
+### Dependency Updates
+
+- `crossref-json` updated to version `0.1.3`
+
 ## [0.1.2](https://github.com/TrialAndErrorOrg/parsers/compare/crossref-to-csl-0.1.1...crossref-to-csl-0.1.2) (2023-03-09)
 
 ### Dependency Updates
 
-* `crossref-json` updated to version `0.1.2`
+- `crossref-json` updated to version `0.1.2`
+
 ## [0.1.1](https://github.com/TrialAndErrorOrg/parsers/compare/crossref-to-csl-0.1.0...crossref-to-csl-0.1.1) (2023-03-09)
 
 ### Dependency Updates
 
-* `crossref-json` updated to version `0.1.1`
-## 0.1.0 (2023-03-09)
+- `crossref-json` updated to version `0.1.1`
 
-### Dependency Updates
+## 0.3.1
 
-* `crossref-json` updated to version `0.1.0`
+### Patch Changes
 
-### Features
-
-* brand spanking new project.json ([32e19eb](https://github.com/TrialAndErrorOrg/parsers/commit/32e19ebf3f71c80336f637297d8f4db274d098bf))
-* fix names ([a4f65fc](https://github.com/TrialAndErrorOrg/parsers/commit/a4f65fcb2fde9dd23750bc9ccddfb0e1ab11548f))
-
-
-### Bug Fixes
-
-* enter a new era ([9c2a0e5](https://github.com/TrialAndErrorOrg/parsers/commit/9c2a0e505472c43d384f3cc78543ad90877b7c3d))
-* **jest:** allow jest to be run even if there is a .swcrc ([6f188f2](https://github.com/TrialAndErrorOrg/parsers/commit/6f188f2a06922ee00d9367b29e666894e48c6c1e))
-* properly set all package.jsons ([5af9c17](https://github.com/TrialAndErrorOrg/parsers/commit/5af9c177be9910511844c481ca59cfcc7bd9b0f6))
-* types ([1a8bf9c](https://github.com/TrialAndErrorOrg/parsers/commit/1a8bf9c26bcc283c3a9d443e94e238881b9e2336))
+- [#134](https://github.com/TrialAndErrorOrg/parsers/pull/134) [`721606c`](https://github.com/TrialAndErrorOrg/parsers/commit/721606cdc14277e234da470475048bddad80be5e) Thanks [@tefkah](https://github.com/tefkah)! - Published from the `TrialAndErrorOrg/parsers` monorepo with npm provenance: `repository` points at the package's directory there, and the build is plain TypeScript (`tsc`) to `dist`. Dependencies are updated to their latest versions.
+- Updated dependencies [[`721606c`](https://github.com/TrialAndErrorOrg/parsers/commit/721606cdc14277e234da470475048bddad80be5e)]:
+  - crossref-json@0.2.3
 
 ## 0.1.0 (2023-03-09)
 
 ### Dependency Updates
 
-* `crossref-json` updated to version `0.1.0`
+- `crossref-json` updated to version `0.1.0`
 
 ### Features
 
-* brand spanking new project.json ([32e19eb](https://github.com/TrialAndErrorOrg/parsers/commit/32e19ebf3f71c80336f637297d8f4db274d098bf))
-* fix names ([a4f65fc](https://github.com/TrialAndErrorOrg/parsers/commit/a4f65fcb2fde9dd23750bc9ccddfb0e1ab11548f))
-
+- brand spanking new project.json ([32e19eb](https://github.com/TrialAndErrorOrg/parsers/commit/32e19ebf3f71c80336f637297d8f4db274d098bf))
+- fix names ([a4f65fc](https://github.com/TrialAndErrorOrg/parsers/commit/a4f65fcb2fde9dd23750bc9ccddfb0e1ab11548f))
 
 ### Bug Fixes
 
-* enter a new era ([9c2a0e5](https://github.com/TrialAndErrorOrg/parsers/commit/9c2a0e505472c43d384f3cc78543ad90877b7c3d))
-* **jest:** allow jest to be run even if there is a .swcrc ([6f188f2](https://github.com/TrialAndErrorOrg/parsers/commit/6f188f2a06922ee00d9367b29e666894e48c6c1e))
-* properly set all package.jsons ([5af9c17](https://github.com/TrialAndErrorOrg/parsers/commit/5af9c177be9910511844c481ca59cfcc7bd9b0f6))
-* types ([1a8bf9c](https://github.com/TrialAndErrorOrg/parsers/commit/1a8bf9c26bcc283c3a9d443e94e238881b9e2336))
+- enter a new era ([9c2a0e5](https://github.com/TrialAndErrorOrg/parsers/commit/9c2a0e505472c43d384f3cc78543ad90877b7c3d))
+- **jest:** allow jest to be run even if there is a .swcrc ([6f188f2](https://github.com/TrialAndErrorOrg/parsers/commit/6f188f2a06922ee00d9367b29e666894e48c6c1e))
+- properly set all package.jsons ([5af9c17](https://github.com/TrialAndErrorOrg/parsers/commit/5af9c177be9910511844c481ca59cfcc7bd9b0f6))
+- types ([1a8bf9c](https://github.com/TrialAndErrorOrg/parsers/commit/1a8bf9c26bcc283c3a9d443e94e238881b9e2336))
+
+## 0.1.0 (2023-03-09)
+
+### Dependency Updates
+
+- `crossref-json` updated to version `0.1.0`
+
+### Features
+
+- brand spanking new project.json ([32e19eb](https://github.com/TrialAndErrorOrg/parsers/commit/32e19ebf3f71c80336f637297d8f4db274d098bf))
+- fix names ([a4f65fc](https://github.com/TrialAndErrorOrg/parsers/commit/a4f65fcb2fde9dd23750bc9ccddfb0e1ab11548f))
+
+### Bug Fixes
+
+- enter a new era ([9c2a0e5](https://github.com/TrialAndErrorOrg/parsers/commit/9c2a0e505472c43d384f3cc78543ad90877b7c3d))
+- **jest:** allow jest to be run even if there is a .swcrc ([6f188f2](https://github.com/TrialAndErrorOrg/parsers/commit/6f188f2a06922ee00d9367b29e666894e48c6c1e))
+- properly set all package.jsons ([5af9c17](https://github.com/TrialAndErrorOrg/parsers/commit/5af9c177be9910511844c481ca59cfcc7bd9b0f6))
+- types ([1a8bf9c](https://github.com/TrialAndErrorOrg/parsers/commit/1a8bf9c26bcc283c3a9d443e94e238881b9e2336))
